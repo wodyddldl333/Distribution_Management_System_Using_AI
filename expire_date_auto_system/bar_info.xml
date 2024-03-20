@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bar_info>
+	<product>
+		<barcode>8801037067651</barcode>
+		<info>과자snack</info>
+	</product>
+	<product>
+		<barcode>8801104220125</barcode>
+		<info>초코우유milk</info>
+	</product>
+	<product>
+		<barcode>8801104220200</barcode>
+		<info>딸기우유milk</info>
+	</product>
+	<product>
+		<barcode>8801115134213</barcode>
+		<info>서울우유딸기맛milk</info>
+	</product>
+	<product>
+		<barcode>8809827251167</barcode>
+		<info>허쉬초코릿칩snack</info>
+	</product>
+	<product>
+		<barcode>8801062320639</barcode>
+		<info>쥬시후레시gum</info>
+	</product>
+</bar_info>

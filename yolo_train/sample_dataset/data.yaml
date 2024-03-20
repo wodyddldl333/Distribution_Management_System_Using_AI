@@ -1,0 +1,15 @@
+names:
+- bacode
+- gum
+- milk
+- snack food
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: date-knpgl
+  url: https://universe.roboflow.com/zc-d7qnv/date-knpgl/dataset/3
+  version: 3
+  workspace: zc-d7qnv
+test: ../test/images
+train: ./sample_dataset/train.txt
+val: /sample_dataset/val.txt
